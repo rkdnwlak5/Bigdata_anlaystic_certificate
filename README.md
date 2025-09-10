@@ -1,0 +1,2 @@
+# Bigdata_anlaystic_certificate
+빅데이터분석기사준비했던코드
